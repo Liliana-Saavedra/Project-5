@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 https://www.loom.com/share/c7af2c24468645ab89730de81f5d9f3e
+
 ## Notes
 
 Challenges encountered while building the app:
